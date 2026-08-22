@@ -1,0 +1,75 @@
+baseURL = "https://edu.ravxytech.my.id/"
+locale = "id"
+title = "Ravxy1337 Tech"
+theme = "PaperMod"
+paginate = 10
+
+[params]
+  author = "Ravxy1337"
+  description = "Blog Edukasi Seputar Cybersecurity & Teknologi"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowToc = true
+  TocOpen = false
+  ShowCodeCopyButtons = true
+  defaultTheme = "dark"
+  ShowShareButtons = false
+  ShowWordCount = true
+  disableThemeToggle = true
+  disableSpecial1stPost = true
+  env = "production"
+  mainSections = ["posts"]
+
+  [params.homeInfoParams]
+    Title = "Ravxy1337 Tech"
+    Content = "Blog edukasi seputar **Cybersecurity**, **Linux**, **Networking**, dan teknologi terkini. Tempat berbagi ilmu dan tutorial dari dunia IT Security."
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/ravaajiu"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/ravxy1337"
+
+  [params.cover]
+    linkFullImages = true
+    responsiveImages = true
+
+  [params.label]
+    text = "Ravxy1337 Tech"
+
+  [params.assets]
+    disableFingerprinting = false
+    theme_color = "#1b1b1e"
+    msapplication_TileColor = "#1b1b1e"
+
+[menu]
+  [[menu.main]]
+    name = "Beranda"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Kategori"
+    url = "/categories/"
+    weight = 2
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 3
+  [[menu.main]]
+    name = "Tentang"
+    url = "/about/"
+    weight = 4
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    lineNos = false
+    noClasses = false
+    style = "dracula"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
