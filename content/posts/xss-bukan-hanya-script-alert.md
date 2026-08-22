@@ -266,4 +266,4 @@ XSS adalah salah satu vulnerability di mana menghafal payload hanya membawa seja
 >
 > Seluruh teknik dalam artikel ini ditujukan untuk lingkungan lab yang sudah diotorisasi, CTF, dan program bug bounty dalam scope yang jelas. Pengujian pada sistem tanpa izin adalah tindakan ilegal.
 >
-> [edu.ravxytech.my.id](https://edu.ravxytech.my.id) hadir untuk berbagi pengetahuan seputar teknologi dan cyber security secara bertanggung jawab.
+> [ravxytech.site](https://ravxytech.site) hadir untuk berbagi pengetahuan seputar teknologi dan cyber security secara bertanggung jawab.

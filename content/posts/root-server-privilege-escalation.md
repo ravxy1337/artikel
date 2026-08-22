@@ -649,4 +649,4 @@ Semuanya saling terhubung dan membentuk satu rangkaian serangan yang utuh. Paham
 >
 > **Jangan pernah menjalankan teknik ini ke sistem yang bukan milik sendiri atau yang tidak memiliki izin eksplisit untuk diuji.** Mengeksploitasi sistem tanpa izin adalah tindakan ilegal dan bisa dikenai sanksi hukum.
 >
-> [edu.ravxytech.my.id](https://edu.ravxytech.my.id) hadir untuk berbagi pengetahuan seputar teknologi dan cyber security secara bertanggung jawab.
+> [ravxytech.site](https://ravxytech.site) hadir untuk berbagi pengetahuan seputar teknologi dan cyber security secara bertanggung jawab.

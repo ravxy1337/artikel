@@ -195,4 +195,4 @@ Temuan ini mungkin terlihat sederhana, tapi dampaknya bisa sangat serius. Dari s
 >
 > Seluruh teknik yang dijelaskan dalam artikel ini hanya boleh dipraktikkan pada sistem yang kamu miliki sendiri, lingkungan lab yang sudah disiapkan untuk pengujian, atau dalam program bug bounty dengan scope yang jelas dan izin tertulis dari pemilik sistem. Mengakses sistem orang lain tanpa izin adalah tindakan ilegal dan bisa dikenai sanksi hukum.
 >
-> Artikel ini dibuat murni untuk keperluan edukasi keamanan siber di [edu.ravxytech.my.id](https://edu.ravxytech.my.id). Pahami risikonya, lakukan dengan bertanggung jawab.
+> Artikel ini dibuat murni untuk keperluan edukasi keamanan siber di [ravxytech.site](https://ravxytech.site). Pahami risikonya, lakukan dengan bertanggung jawab.
