@@ -3,6 +3,7 @@ locale = "id"
 title = "Ravxy1337 Tech"
 theme = "PaperMod"
 paginate = 10
+buildFuture = true
 
 [params]
   author = "Ravxy1337"

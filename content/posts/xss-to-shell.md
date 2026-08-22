@@ -1,6 +1,6 @@
 ---
-title: "XSS to Shell: Ketika JavaScript di Browser Berujung Akses Server"
-date: 2026-08-23
+title: "Xss2Shell: Ketika JavaScript di Browser Berujung Akses Server"
+date: 2026-08-22
 author: "RavxyTech"
 tags: ["xss", "rce", "web-security", "pentesting", "session-hijacking", "exploit-chain"]
 categories: ["Research", "Cybersecurity"]
