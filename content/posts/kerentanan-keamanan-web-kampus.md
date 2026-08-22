@@ -6,10 +6,12 @@ tags: ["web-security", "pentesting", "kampus", "sqli", "lfi", "rce", "cybersecur
 categories: ["Research", "Cybersecurity", "Edukasi"]
 description: "Analisis komprehensif tentang celah keamanan web kampus, mulai dari target subdomain terlantar, exploit CMS (OJS, SLiMS, Balitbang), kerentanan file manager, hingga eksekusi RCE."
 draft: false
-image: "/images/kampus.png"
+cover:
+  image: "/images/kampus.png"
+  alt: "Membongkar Sisi Gelap Keamanan Web Kampus"
+  relative: false
 
 ---
-{{< figure src="/images/kampus.png" alt="kampus exploit" >}}
 
 Sering banget kan denger berita database kampus bocor, atau desas-desus mahasiswa yang tiba-tiba nilainya berubah jadi A semua? Kalau sebelumnya kita bahas kerentanan umum kayak SQLi dan XSS, realitanya di lapangan... *attack vector*-nya jauh lebih liar dan sistematis dari itu wkwkwk.
 

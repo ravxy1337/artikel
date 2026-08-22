@@ -5,9 +5,11 @@ draft: false
 description: "Kupas tuntas dunia serangan SEO black hat, dari cara kerja, motif di baliknya, jenis teknik yang paling sering dipakai, dampak nyata bagi bisnis, sampai strategi pertahanan menyeluruh untuk menjaga peringkat dan reputasi website kamu tetap aman di mata mesin pencari."
 tags: ["seo", "keamanan website", "digital marketing", "negative seo", "cyber security"]
 categories: ["Edukasi"]
-image: "/images/seo.png"
+cover:
+  image: "/images/seo.png"
+  alt: "Mengenal Ancaman SEO Black Hat"
+  relative: false
 ---
-{{< figure src="/images/seo.png" alt="Mengenal Ancaman SEO Black Hat, taktik berbahaya yang bisa menghancurkan website dan reputasi bisnis" >}}
 
 Bayangkan sebuah pagi biasa. Kamu membuka laptop, menyeruput kopi, lalu iseng membuka Google Search Console seperti kebiasaan setiap hari. Tapi kali ini ada yang aneh. Grafik trafik yang biasanya landai stabil tiba tiba menukik tajam seperti jatuh dari tebing. Tidak ada perubahan konten yang kamu lakukan, tidak ada update besar dari sisi teknis, bahkan kamu baru saja publish artikel baru dua hari lalu yang seharusnya mendongkrak performa, bukan menjatuhkannya. Kepala mulai pusing, jantung berdegup lebih cepat, dan pertanyaan besar muncul di benak, apa yang sebenarnya terjadi pada website yang sudah dibangun susah payah selama bertahun tahun ini?
 

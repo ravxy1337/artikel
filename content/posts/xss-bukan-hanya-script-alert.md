@@ -6,8 +6,11 @@ tags: ["xss", "web-security", "bug-bounty", "waf-bypass", "pentesting", "csp", "
 categories: ["Research", "Web Security"]
 description: "Pembahasan mendalam tentang anatomi XSS, dari memahami tag, event, dan atribut, sampai teknik bypass WAF, CSP, DOMPurify, dan postMessage XSS yang masih relevan di 2026."
 cover:
+  image: "/images/gambar1.webp"
   alt: "Ilustrasi XSS payload"
   caption: "Setiap payload XSS yang bekerja selalu tersusun dari tiga komponen inti."
+  relative: false
+  hiddenInSingle: true
 draft: false
 ---
 

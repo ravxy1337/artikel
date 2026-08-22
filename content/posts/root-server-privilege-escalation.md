@@ -6,13 +6,15 @@ tags: ["privilege-escalation", "root", "linux", "pentesting", "ngrok", "backconn
 categories: ["Research", "Cybersecurity"]
 description: "Penjelasan lengkap tentang apa itu root di server Linux, kenapa hacker mengincar akses root, bagaimana proses privilege escalation bekerja mulai dari enumerasi gcc, pkexec, python, sampai teknik backconnect menggunakan ngrok."
 draft: false
+cover:
+  image: "/images/rootserver.jpg"
+  alt: "Rooting Server"
+  relative: false
 ---
 
 Belakangan ini timeline lagi rame banget soal peretasan server yang berujung dapet akses root. Berita di sana-sini, forum underground makin ramai, dan banyak yang penasaran sebenernya gimana sih prosesnya sampai seseorang bisa "menguasai" sebuah server secara penuh.
 
 Artikel ini bakal ngebahas tuntas mulai dari apa itu root, bagaimana proses escalation dari user biasa jadi root, sampai teknik backconnect pakai ngrok buat dapetin shell dari balik NAT. Semua dijelasin dari sudut pandang edukasi, intinya siapin kopi + rokok ae wkwkwk.
-
-{{< figure src="/images/rootserver.jpg" >}}
 
 ---
 

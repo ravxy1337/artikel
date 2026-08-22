@@ -6,6 +6,11 @@ tags: ["git", "web-security", "pentesting", "recon", "disclosure", "red-team"]
 categories: ["Research", "Web Security"]
 description: "Folder .git yang tidak sengaja terbuka di server bisa mengekspos source code, kredensial database, API key, sampai riwayat seluruh perubahan kode. Artikel ini membahas cara menemukannya dan apa yang bisa didapat dari sana."
 draft: false
+cover:
+  image: "/images/git-wget-download.png"
+  alt: "Git Exposed: Ketika Folder .git Terbuka untuk Umum"
+  relative: false
+  hiddenInSingle: true
 ---
 
 Banyak developer yang tidak sadar bahwa proses deployment mereka meninggalkan sesuatu yang tidak seharusnya ada di server publik: folder `.git`. Folder ini adalah jantung dari version control Git, berisi riwayat lengkap semua perubahan kode, pesan commit, branch, bahkan file konfigurasi yang mungkin menyimpan hal-hal sensitif seperti kredensial database, API key, atau password admin.
