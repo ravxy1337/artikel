@@ -36,6 +36,7 @@ paginate = 10
   [params.cover]
     linkFullImages = true
     responsiveImages = true
+    hiddenInList = true
 
   [params.label]
     text = "Ravxy1337 Tech"
